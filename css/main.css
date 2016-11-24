@@ -1,11 +1,4 @@
-/* Tu CSS va aqui */
-
-
-
-/* Tu CSS va aqui */
-
 *{
-	 ;
 }
 .clearfix
 {
@@ -110,6 +103,9 @@ footer{
 	color:#848484;
 	padding-left: 188px;
 	font-size: 14px;
+}
+.text-blue{
+	color:blue;
 }
 @media (max-width:900px)
 {
